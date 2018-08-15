@@ -1,0 +1,43 @@
+
+/*PALAVRAS RESERVADAS*/
+
+op_logico1: "ou";
+op_logico2: "e";
+
+
+/* SIMBOLOS RESERVADOS: */
+
+valor_constante: CADEIA | NUM_INT | NUM_REAL | "verdadeiro" | "falso"
+tipo_basico: "literal" | "inteiro" | "real" | "logico"
+op1: "+" | "-"
+op2: "*" | "/"
+op3: "%"
+op_unario: "-"
+op_relacional : "=" | "<>" | ">=" | "<=" | ">" | "<"
+algoritmo: "algoritmo"
+fimalg: "fim_algoritmo"
+declaraca: "declare"
+identificador: "IDENT"
+constante: "constante"
+registro: "registro"
+fimreg: "fim_registro"
+procedimento: "procedimento"
+fimproc: "fim_procedimento"
+funcao: "funcao"
+fimfunc: "fim_funcao"
+var: "var"
+leia: "leia"
+escreva: "escreva"
+se: "se"
+senao: "senao"
+entao: "entao"
+fimse: "fim_se"
+fechaparent: ")"
+abreparent: "("
+circun: "^"
+virg: ","
+doisponto: ":"
+ponto: "."
+igual: "="
+abrecolchete: "["
+fechacolchete: "]"
