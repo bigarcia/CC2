@@ -3,10 +3,6 @@
 
 op_logico1: "ou";
 op_logico2: "e";
-
-
-/* SIMBOLOS RESERVADOS: */
-
 valor_constante: CADEIA | NUM_INT | NUM_REAL | "verdadeiro" | "falso"
 tipo_basico: "literal" | "inteiro" | "real" | "logico"
 op1: "+" | "-"
